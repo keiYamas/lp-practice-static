@@ -6,7 +6,7 @@
 このリポジトリのタスクはプロジェクトにて管理されています。
 タスクの追加・進行・完了時は、プロジェクトの更新も忘れないようにしてください。
 
-https://github.com/{あなたのgithubアカウント名}/lp-practice-static/projects/1
+https://github.com/{keiYamas}/lp-practice-static/projects/1
 
 # サイトのURL
 http://tlonk.s223.xrea.com/
