@@ -1,1 +1,1 @@
-scp -r ./ tlonk@s223.xrea.com:~/public_html/tlonk.shop/lp-practice-static
+scp -r ./ tlonk@s223.xrea.com:~/lp-practice-static
